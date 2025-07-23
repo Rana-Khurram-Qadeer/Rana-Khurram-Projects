@@ -27,7 +27,7 @@ Features: Add new tasks, mark tasks as complete, delete tasks, filter tasks (all
 
 ## Profiles & Links
 
-- **LinkedIn Profile:** [LinkedIn](www.linkedin.com/in/ranakhurramqadeer)
+- **LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/ranakhurramqadeer/)
 - **Web CV:** [View CV](https://your-cv-url.com)
 - **LeetCode Profile:** [LeetCode](https://leetcode.com/u/ranakhurramqadeer/)
 - **HuggingFace Profile:**[HuggingFace](https://huggingface.co/JUDJE/spaces) 
